@@ -16,7 +16,7 @@ In an Ubuntu terminal, install the tools once:
 ```sh
 sudo apt-get update
 sudo apt-get install -y git make python3 iverilog yosys gtkwave graphviz
-git clone https://github.com/Sean184344/power-manager.git
+git clone https://github.com/vamsikrishnatheegela/Power-Manager.git
 cd power-manager
 ```
 
