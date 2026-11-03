@@ -1,5 +1,8 @@
 # Portfolio notes and release review
 
+**Repository maintainer:** Vamsi Krishna Theegela  
+**Upstream project and original copyright:** [Sean184344/power-manager](https://github.com/Sean184344/power-manager)
+
 ## Evidence-based resume bullets
 
 - Designed SystemVerilog clock-sleep and modeled power-gating controllers with
@@ -22,7 +25,7 @@ boundaries against the M3/M4 contracts, and proof/synthesis claims against the M
 reports. It adds explanatory artifacts and a CI workflow; controller RTL is
 unchanged. This review and the regression are not a new exhaustive code audit.
 
-The M5 snapshot was published to
+The M5 snapshot originates from the upstream project
 [Sean184344/power-manager](https://github.com/Sean184344/power-manager) at
 [`d136475`](https://github.com/Sean184344/power-manager/commit/d136475800f6b3f1c1e3f6cf4831973db5143e26).
 The M6 additions include the documentation and CI workflow described here.
@@ -31,8 +34,8 @@ usable Git metadata; the M5 publication used the GitHub API.
 
 ## License status
 
-The owner selected the [MIT License](../LICENSE), with copyright credited to
-Sean184344 (2026). The license text is included at the repository root.
+The upstream author selected the [MIT License](../LICENSE), with copyright credited to
+Sean184344 (2026). That copyright notice is retained as required by the MIT License; Vamsi Krishna Theegela maintains this copy. The license text is included at the repository root.
 
 ## CI
 
