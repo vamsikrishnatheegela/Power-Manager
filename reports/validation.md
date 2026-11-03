@@ -331,7 +331,7 @@ milestone review; nothing has been pushed to GitHub.
 
 The earlier publication statements above describe their historical sessions.
 Following the user's publication request, the complete M5 snapshot was published
-to `Sean184344/power-manager` on `main` at
+to the upstream repository `Sean184344/power-manager` on `main` at
 `d136475800f6b3f1c1e3f6cf4831973db5143e26`. The GitHub ref was read back and matched.
 Publication used the GitHub API because this workspace has no usable Git metadata.
 
@@ -391,7 +391,7 @@ choice is the sole remaining M6 item; no license was selected automatically.
 ## M6 completion — MIT license and demonstration guide
 
 The owner explicitly selected MIT. Added the standard MIT text in `LICENSE`,
-with copyright credited to the repository owner, Sean184344 (2026), and updated
+with copyright credited to the upstream author, Sean184344 (2026), and retained
 README, portfolio notes and the milestone checklist. The canonical license text
 was checked against https://opensource.org/license/mit.
 
