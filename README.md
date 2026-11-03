@@ -1,5 +1,8 @@
 # Power-Manager Race Verification
 
+**Maintainer:** Vamsi Krishna Theegela  
+**Upstream project:** [Sean184344/power-manager](https://github.com/Sean184344/power-manager)
+
 An educational SystemVerilog project focused on safe sleep/wake sequencing and event races. Target: VLSI design-verification portfolio, with later RTL synthesis and physical-design extensions.
 
 ## What problem are we solving?
@@ -70,10 +73,10 @@ The final evidence should be a traceable specification, protocol-aware workload 
 The design is original educational RTL. OpenTitan's power-manager documentation is architectural background, not a claim of OpenTitan compatibility or verification:
 https://opentitan.org/book/hw/top_earlgrey/ip_autogen/pwrmgr/doc/theory_of_operation.html
 
-The tested M5 snapshot is published at
+The tested M5 snapshot originates from the upstream project
 [Sean184344/power-manager](https://github.com/Sean184344/power-manager), commit
 [`d136475`](https://github.com/Sean184344/power-manager/commit/d136475800f6b3f1c1e3f6cf4831973db5143e26).
-M6 adds portfolio documentation and an automated regression workflow.
+This repository is maintained by Vamsi Krishna Theegela. M6 adds portfolio documentation and an automated regression workflow.
 See the milestone checklist for the latest hosted CI status.
 See [portfolio notes](docs/portfolio.md) for measured resume claims, release review
 and CI scope. This project is licensed under the [MIT License](LICENSE).
