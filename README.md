@@ -1,8 +1,5 @@
 # Power-Manager Race Verification
 
-**Maintainer:** Vamsi Krishna Theegela  
-**Upstream project:** [Sean184344/power-manager](https://github.com/Sean184344/power-manager)
-
 An educational SystemVerilog project focused on safe sleep/wake sequencing and event races. Target: VLSI design-verification portfolio, with later RTL synthesis and physical-design extensions.
 
 ## What problem are we solving?
